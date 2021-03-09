@@ -2,7 +2,9 @@ const help = (prefix) => {
 
 	return `
 
-PELO BOR
+PEPY BOT
+
+EM ATUALIZAÇÕES!!! 
 
 𝗜𝗡𝗙𝗢𝗦:
 
