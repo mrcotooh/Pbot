@@ -1,283 +1,485 @@
 const help = (prefix) => {
+
 	return `
 
 PELO BOR
-”3¹8”3º3”3¹5”3º4”3º8:
+
+ð—œð—¡ð—™ð—¢ð—¦:
 
  *O BOT SE ENCONTRA: ON-LINE*
- 7›67›67›67›67›67›67›6¡¾7¦6¡¿7›67›67›67›67›67›67›6
+
+ â–¬â–¬â–¬â–¬â–¬â–¬â–¬ã€â˜ªã€‘â–¬â–¬â–¬â–¬â–¬â–¬â–¬
+
  *DONO*: Guilherme
- 7›67›67›67›67›67›67›6¡¾7¦6¡¿7›67›67›67›67›67›67›6
+
+ â–¬â–¬â–¬â–¬â–¬â–¬â–¬ã€â˜ªã€‘â–¬â–¬â–¬â–¬â–¬â–¬â–¬
+
  *PREFIXO*:[ / ]
- 7›67›67›67›67›67›67›6¡¾7¦6¡¿7›67›67›67›67›67›67›6
+
+ â–¬â–¬â–¬â–¬â–¬â–¬â–¬ã€â˜ªã€‘â–¬â–¬â–¬â–¬â–¬â–¬â–¬
+
  *WHATSAPP*: wa.me/5519999897566
- 7›67›67›67›67›67›67›6¡¾7¦6¡¿7›67›67›67›67›67›67›6
+
+ â–¬â–¬â–¬â–¬â–¬â–¬â–¬ã€â˜ªã€‘â–¬â–¬â–¬â–¬â–¬â–¬â–¬
+
  *GRUPO OFC*:  https://chat.whatsapp.com/EL33NocjkqSGHM5qtT3DEV
- 7›67›67›67›67›67›67›6¡¾7¦6¡¿7›67›67›67›67›67›67›6
 
+ â–¬â–¬â–¬â–¬â–¬â–¬â–¬ã€â˜ªã€‘â–¬â–¬â–¬â–¬â–¬â–¬â–¬
 
-        ”3¹2”3º4”3º2”3¹0”3º3”3¹3”3º4”3º8 ”3¹0 ”3¹1”3¹0”3¹8”3»3”3º4:
+        ð—–ð—¢ð— ð—”ð—¡ð——ð—¢ð—¦ ð—” ð—•ð—”ð—œð—«ð—¢:
 
-      ”3¹2”3º4”3º2”3¹0”3º3”3¹3”3º4”3º8:
+      ð—–ð—¢ð— ð—”ð—¡ð——ð—¢ð—¦:
 
-7Ì0¡¾”3º2”3¹4”3º1”3¹7”3º4”3º7”3¹4”3º8¡¿
+âž¢ã€ð— ð—˜ð—Ÿð—›ð—¢ð—¥ð—˜ð—¦ã€‘
 
-7Ë3 *${prefix}Sticker* [Faz figurinha]
-7Ë3 *${prefix}play* [nome da m¨²sica]
-7Ë3 *${prefix}toimg* [converter figurinha em imagem]
-7Ë3 *${prefix}wame* [link do seu whatsapp]
-7Ë3 *${prefix}meme* [memes aleat¨®rios]
-7Ë3 *${prefix}nabutojokes* [memes2]
-7Ë3 *${prefix}tts pt* [seu texto]
-7Ë3 *${prefix}ping* [velocidade]
-7Ë3 *${prefix}owner ou dono* [info do criador]
+âž› *${prefix}Sticker* [Faz figurinha]
 
-7Ì0¡¾”3º3”3º4”3»1”3º4”3º8¡¿
+âž› *${prefix}play* [nome da mÃºsica]
 
-7Ë3 *${prefix}animecry*
-7Ë3 *${prefix}chentai [premium]*
-7Ë3 *${prefix}gcpf [premium]*
-7Ë3 *${prefix}gay [@]*
-7Ë3 *${prefix}gbin [premium]*
-7Ë3 *${prefix}pack [premium]*
-7Ë3 *${prefix}destrava [premium]*
-7Ë3 *${prefix}gpessoa [premium]*
-7Ë3 *${prefix}spamcall*
-7Ë3 *${prefix}play (nome da msc)*
+âž› *${prefix}toimg* [converter figurinha em imagem]
 
-7Ì0¡¾”3º5”3¹0”3º7”3¹0 ”3¹6”3º7”3»0”3º5”3º4”3º8¡¿
+âž› *${prefix}wame* [link do seu whatsapp]
 
-7Ë3 *${prefix}closegc* [fechar grupo]
-7Ë3 *${prefix}opengc* [abrir grupo]
-7Ë3 *${prefix}antilink* 1 [anti link]
-7Ë3 *${prefix}antiracismo on* [anti racismo]
-7Ë3 *${prefix}banir* [banir membro]
-7Ë3 *${prefix}admins* [lista se administradores]
-7Ë3 *${prefix}marcar* [marcar todos membros]
-7Ë3 *${prefix}linkgp* [link do grupo]
-7Ë3 *${prefix}promover* [dar adm]
-7Ë3 *${prefix}rebaixar* [tirar adm]
-7Ë3 *${prefix}bemvindo* 1 [recusso de boas vindas]
-7Ë3 *${prefix}grupoinfo* [info]
-7Ë3 *${prefix}setdesc* [trocar descri0Š40Š0o]
-7Ë3 *${prefix}setfoto* [mudar foto]
-7Ë3 *${prefix}porno* [porno]
-7Ë3 *${prefix}mia* [fotos da mia]
+âž› *${prefix}meme* [memes aleatÃ³rios]
 
-7Ì0¡¾”3¹8”3º3”3º9”3¹4”3º7”3¹0”3¹6”3¹8”3º7¡¿
-7Ë3
-7Ë3 *${prefix}figu*
-7Ë3 *${prefix}toimg*
-7Ë3 *${prefix}nabutojokes (memes aleat¨®rios)*
-7Ë3 *${prefix}memeindo*
-7Ë3 *${prefix}tts*
-7Ë3 *${prefix}lolih [on]*
-7Ë3 *${prefix}nsfwloli [off]*
-7Ë3 *${prefix}url2img*
-7Ë3 *${prefix}leens [na legenda]*
-7Ë3 *${prefix}wait [na legenda]*
-7Ë3 *${prefix}setprefix*
-7Ë3
-7Ì0¡¾”3º4”3»0”3º9”3º7”3º4”3º8¡¿
-7Ë3
-7Ë3 *${prefix}linkgp*
-7Ë3 *${prefix}simih [1/0]*
-7Ë3 *${prefix}marcar*
-7Ë3 *${prefix}add [@]*
-7Ë3 *${prefix}banir [@]*
-7Ë3 *${prefix}promover [@]*
-7Ë3 *${prefix}rebaixar*
-7Ë3 *${prefix}admins*
-7Ë3 *${prefix}marcar2*
-7Ë3 *${prefix}bc [texto]* (ele faz uma 6¾4)
-7Ë3 *${prefix}marcar3*
-7Ë3 *${prefix}bloqueados*
-7Ë3 *${prefix}bloquear [@]*
-7Ë3 *${prefix}desbloquear [@]*
-7Ë3 *${prefix}limpar*
-7Ë3 *${prefix}bc [ *texto* ]*
-7Ë3 *${prefix}bemvindo [1/0]*
-7Ë3 *${prefix}clonar [@]*
-7Ë3 *${prefix}help1*
-7Ë3 *${prefix}dono*
-7Ë3 *${prefix}owner*
-7Ë3 *${prefix}tts [texto]*
-7Ë3 *${prefix}setnome*
-7Ë3 *${prefix}termux*
-7Ë3 *${prefix}setfoto*
-7Ë3 *${prefix}grupoinfo*
-7Ë3 *${prefix}ytmp4*
-7Ë3 *${prefix}bomdia*
-7Ë3 *${prefix}boanoite*
-7Ë3 *${prefix}marcar*
-7Ë3 *${prefix}marcar2*
-7Ë3 *${prefix}marcar3*
-7Ë3
-7Ì0¡¾ ”3¹8”3º2”3¹0”3¹6”3¹4”3º3”3º8 ¡¿
-7Ë3
-7Ë3 *${prefix}loli* [off]
-7Ë3 *${prefix}loli1*
-7Ë3 *${prefix}hentai*
-7Ë3 *${prefix}dono*
-7Ë3 *${prefix}porno*
-7Ë3 *${prefix}boanoite*
-7Ë3 *${prefix}bomdia*
-7Ë3 *${prefix}boatarde*
-7Ë3 *${prefix}mia [aleat¨®rias]*
-7Ë3 *${prefix}rize [aleat¨®rias]*
-7Ë3 *${prefix}minato [aleat¨®rias]*
-7Ë3 *${prefix}boruto [aleat¨®rias]*
-7Ë3 *${prefix}hinata [aleat¨®rias]*
-7Ë3 *${prefix}sasuke [aleat¨®rias]*
-7Ë3 *${prefix}sakura [aleat¨®rias]*
-7Ë3 *${prefix}naruto [aleat¨®rias]*
-7Ë3 *${prefix}meme*   
-7Ë3 *${prefix}lofi*
-7Ë3 *${prefix}malkova*
-7Ë3 *${prefix}canal*
-7Ë3 *${prefix}nsfwloli1*
-7Ë3 *${prefix}reislin*
-7Ë3
-7Ì0¡¾ ”3¹8”3º3”3º9”3¹4”3º1”3¹8”3¹6”3¹40¼8”3º3”3¹2”3¹8”3¹0 ”3¹8”3¹0 ¡¿
-7Ë3
-7Ë3 *${prefix}simih 1 (para ativar)*
-7Ë3 *${prefix}simih 0 (para desativar)*
-7Ë3 *${prefix}simi (sua mensagem)*
-7Ë3
-7Ì0¡¾”3¹4”3º2 ”3º9”3¹4”3º8”3º9”3¹4¡¿
-7Ë3
-7Ë3 *${prefix}*
-7Ë3 *${prefix}*
-7Ë3 *${prefix}*
-7Ë3
-7Ì0¡¾”3º5”3º7”3¹4”3º2”3¹8”3»0”3º2¡¿
-7Ë3
-7Ë3 *${prefix}dado*
-7Ë3 *${prefix}cekvip*
-7Ë3 *${prefix}premiumlist*
-7Ë3 *${prefix}delete*
-7Ë3 *${prefix}modapk*
-7Ë3 *${prefix}indo10*
-7Ë3 *${prefix}daftarvip [para virar Premium]*
-7Ë3 *${prefix}qrcode*
-7Ë3 *${prefix}chentai*
-7Ë3 *${prefix}gcpf*
-7Ë3 *${prefix}gbin*
-7Ë3 *${prefix}pack*
-7Ë3 *${prefix}destrava*
-7Ë3 *${prefix}gpessoa*
+âž› *${prefix}nabutojokes* [memes2]
 
-7Ì0¡¾”3¹6”3º7”3»0”3º5”3º4¡¿
-7Ë3
-7Ë3 *${prefix}banir*
-7Ë3 *${prefix}leveling [on/off]*
-7Ë3 *${prefix}level*
-7Ë3 *${prefix}add*
-7Ë3 *${prefix}promover*
-7Ë3 *${prefix}setfoto [na legenda]*
-7Ë3 *${prefix}setname [texto]*
-7Ë3 *${prefix}rebaixar*
-7Ë3 *${prefix}admins*
-7Ë3 *${prefix}marcar*
-7Ë3 *${prefix}marcar2*
-7Ë3 *${prefix}marcar3*
-7Ë3 *${prefix}bemvindo [1/0]*
-7Ë3 *${prefix}grupoinfo*
-7Ë3 *${prefix}bomdia*
-7Ë3 *${prefix}boatarde*
-7Ë3 *${prefix}boanoite*
-7Ë3 *${prefix}setdesc*
-7Ë3 *${prefix}bug [sua mensagem]*
-7Ë3
-7Ì0¡¾”3¹4”3º8”3º5”3¹4”3¹2”3¹8”3¹5”3¹8”3¹2”3º4 ”3¹3”3º4 ”3¹1”3º4”3º9¡¿”3¼7
-7Ë3
-7Ë3 *${prefix}bug [sua mensagem]*
-7Ë3 *${prefix}clonar [@]*
-7Ë3 *${prefix}dono*
-7Ë3 *${prefix}ping [ver velocidade do bot]*
-7Ë3 *${prefix}termux*
-7Ë3 *${prefix}gay [@]*
-7Ë3 *${prefix}wame*
-7Ë3 *${prefix}map (nome)*
-7Ë3 *${prefix}setppbot (marque uma img)*
-7Ë3 *${prefix}pinterest (nome)*
-7Ë3 *${prefix}desligar (so para o dono)*
-7Ë3 *${prefix}timer*
-7Ë3
-7Ì0¡¾”3º2”3¹0”3¹8”3º8 ”3¹0”3º1”3¹6”3»0”3º3”3º8¡¿”3¼7
-7Ë3
-7Ë3 *${prefix}neko*
-7Ë3 *${prefix}ttp [texto]*
-7Ë3 *${prefix}testime*
-7Ë3 *${prefix}tomp3*
-7Ë3 *${prefix}modoanime [on/off]*
-7Ë3 *${prefix}modonsfw [on/off]*
-7Ë3 *${prefix}happymod [jogo/app]*
-7Ë3 *${prefix}rize*
-7Ë3 *${prefix}ytsearch*
-7Ë3 *${prefix}moddroid [jogo/app]*
-7Ë3 *${prefix}xvideos [titulo]**
-7Ë3 *${prefix}nomegp*
-7Ë3 *${prefix}nabutojokes (memes aleat¨®rios)*
-7Ë3 *${prefix}animecry*
-7Ë3 *${prefix}gay1*
-7Ë3 *${prefix}next*
-7Ë3 *${prefix}alerta*
-7Ë3 *${prefix}belle [img aleat¨®rias]*
-7Ë3 *${prefix}pronomeneu [texto]*
-7Ë3 *${prefix}hobby*
+âž› *${prefix}tts pt* [seu texto]
 
-7Ì0¡¾ ”3¹2”3º4”3º2”3¹0”3º3”3¹3”3º4”3º8 ”3¹3”3¹4 ”3º2”3»0”3º8”3¹8”3¹2”3¹0 ¡¿
+âž› *${prefix}ping* [velocidade]
 
-7Ë3 *${prefix} em teste
-7Ë3 *${prefix}jogaroxo*
-7Ë3 *${prefix} em teste
-7Ë3 *${prefix} em teste
-7Ë3 *${prefix}narutinho*
-7Ë3 *${prefix}}tobi*
-7Ë3 *${prefix}rapL*
-7Ë3 *${prefix}paypal*
-7Ë3 *${prefix}sad*
+âž› *${prefix}owner ou dono* [info do criador]
 
-7Ì0¡¾ ”3º4”3»0”3º9”3º7”3º4”3º8 /2 ¡¿
+âž¢ã€ð—¡ð—¢ð—©ð—¢ð—¦ã€‘
 
-*7Ë3 *${prefix}antilink [1/0]*
-*7Ë3 *${prefix}brainly [pergunta]*
-7Ë3 *${prefix}antiracismo [on/off]*
-7Ë3 *${prefix}setnomebot*
-7Ë3 *${prefix}meme*
+âž› *${prefix}animecry*
 
-7Ì0¡¾ ”3¹8”3º3”3º9”3¹4”3º7”3¹0”3º9”3¹8”3»1”3º4”3º8 ¡¿
+âž› *${prefix}chentai [premium]*
 
-NOTA 0†3
+âž› *${prefix}gcpf [premium]*
+
+âž› *${prefix}gay [@]*
+
+âž› *${prefix}gbin [premium]*
+
+âž› *${prefix}pack [premium]*
+
+âž› *${prefix}destrava [premium]*
+
+âž› *${prefix}gpessoa [premium]*
+
+âž› *${prefix}spamcall*
+
+âž› *${prefix}play (nome da msc)*
+
+âž¢ã€ð—£ð—”ð—¥ð—” ð—šð—¥ð—¨ð—£ð—¢ð—¦ã€‘
+
+âž› *${prefix}closegc* [fechar grupo]
+
+âž› *${prefix}opengc* [abrir grupo]
+
+âž› *${prefix}antilink* 1 [anti link]
+
+âž› *${prefix}antiracismo on* [anti racismo]
+
+âž› *${prefix}banir* [banir membro]
+
+âž› *${prefix}admins* [lista se administradores]
+
+âž› *${prefix}marcar* [marcar todos membros]
+
+âž› *${prefix}linkgp* [link do grupo]
+
+âž› *${prefix}promover* [dar adm]
+
+âž› *${prefix}rebaixar* [tirar adm]
+
+âž› *${prefix}bemvindo* 1 [recusso de boas vindas]
+
+âž› *${prefix}grupoinfo* [info]
+
+âž› *${prefix}setdesc* [trocar descriÃ§Ã£o]
+
+âž› *${prefix}setfoto* [mudar foto]
+
+âž› *${prefix}porno* [porno]
+
+âž› *${prefix}mia* [fotos da mia]
+
+âž¢ã€ð—œð—¡ð—§ð—˜ð—¥ð—”ð—šð—œð—¥ã€‘
+
+âž›
+
+âž› *${prefix}figu*
+
+âž› *${prefix}toimg*
+
+âž› *${prefix}nabutojokes (memes aleatÃ³rios)*
+
+âž› *${prefix}memeindo*
+
+âž› *${prefix}tts*
+
+âž› *${prefix}lolih [on]*
+
+âž› *${prefix}nsfwloli [off]*
+
+âž› *${prefix}url2img*
+
+âž› *${prefix}leens [na legenda]*
+
+âž› *${prefix}wait [na legenda]*
+
+âž› *${prefix}setprefix*
+
+âž›
+
+âž¢ã€ð—¢ð—¨ð—§ð—¥ð—¢ð—¦ã€‘
+
+âž›
+
+âž› *${prefix}linkgp*
+
+âž› *${prefix}simih [1/0]*
+
+âž› *${prefix}marcar*
+
+âž› *${prefix}add [@]*
+
+âž› *${prefix}banir [@]*
+
+âž› *${prefix}promover [@]*
+
+âž› *${prefix}rebaixar*
+
+âž› *${prefix}admins*
+
+âž› *${prefix}marcar2*
+
+âž› *${prefix}bc [texto]* (ele faz uma â„¢)
+
+âž› *${prefix}marcar3*
+
+âž› *${prefix}bloqueados*
+
+âž› *${prefix}bloquear [@]*
+
+âž› *${prefix}desbloquear [@]*
+
+âž› *${prefix}limpar*
+
+âž› *${prefix}bc [ *texto* ]*
+
+âž› *${prefix}bemvindo [1/0]*
+
+âž› *${prefix}clonar [@]*
+
+âž› *${prefix}help1*
+
+âž› *${prefix}dono*
+
+âž› *${prefix}owner*
+
+âž› *${prefix}tts [texto]*
+
+âž› *${prefix}setnome*
+
+âž› *${prefix}termux*
+
+âž› *${prefix}setfoto*
+
+âž› *${prefix}grupoinfo*
+
+âž› *${prefix}ytmp4*
+
+âž› *${prefix}bomdia*
+
+âž› *${prefix}boanoite*
+
+âž› *${prefix}marcar*
+
+âž› *${prefix}marcar2*
+
+âž› *${prefix}marcar3*
+
+âž›
+
+âž¢ã€ ð—œð— ð—”ð—šð—˜ð—¡ð—¦ ã€‘
+
+âž›
+
+âž› *${prefix}loli* [off]
+
+âž› *${prefix}loli1*
+
+âž› *${prefix}hentai*
+
+âž› *${prefix}dono*
+
+âž› *${prefix}porno*
+
+âž› *${prefix}boanoite*
+
+âž› *${prefix}bomdia*
+
+âž› *${prefix}boatarde*
+
+âž› *${prefix}mia [aleatÃ³rias]*
+
+âž› *${prefix}rize [aleatÃ³rias]*
+
+âž› *${prefix}minato [aleatÃ³rias]*
+
+âž› *${prefix}boruto [aleatÃ³rias]*
+
+âž› *${prefix}hinata [aleatÃ³rias]*
+
+âž› *${prefix}sasuke [aleatÃ³rias]*
+
+âž› *${prefix}sakura [aleatÃ³rias]*
+
+âž› *${prefix}naruto [aleatÃ³rias]*
+
+âž› *${prefix}meme*   
+
+âž› *${prefix}lofi*
+
+âž› *${prefix}malkova*
+
+âž› *${prefix}canal*
+
+âž› *${prefix}nsfwloli1*
+
+âž› *${prefix}reislin*
+
+âž›
+
+âž¢ã€ ð—œð—¡ð—§ð—˜ð—Ÿð—œð—šð—˜Ì‚ð—¡ð—–ð—œð—” ð—œð—” ã€‘
+
+âž›
+
+âž› *${prefix}simih 1 (para ativar)*
+
+âž› *${prefix}simih 0 (para desativar)*
+
+âž› *${prefix}simi (sua mensagem)*
+
+âž›
+
+âž¢ã€ð—˜ð—  ð—§ð—˜ð—¦ð—§ð—˜ã€‘
+
+âž›
+
+âž› *${prefix}*
+
+âž› *${prefix}*
+
+âž› *${prefix}*
+
+âž›
+
+âž¢ã€ð—£ð—¥ð—˜ð— ð—œð—¨ð— ã€‘
+
+âž›
+
+âž› *${prefix}dado*
+
+âž› *${prefix}cekvip*
+
+âž› *${prefix}premiumlist*
+
+âž› *${prefix}delete*
+
+âž› *${prefix}modapk*
+
+âž› *${prefix}indo10*
+
+âž› *${prefix}daftarvip [para virar Premium]*
+
+âž› *${prefix}qrcode*
+
+âž› *${prefix}chentai*
+
+âž› *${prefix}gcpf*
+
+âž› *${prefix}gbin*
+
+âž› *${prefix}pack*
+
+âž› *${prefix}destrava*
+
+âž› *${prefix}gpessoa*
+
+âž¢ã€ð—šð—¥ð—¨ð—£ð—¢ã€‘
+
+âž›
+
+âž› *${prefix}banir*
+
+âž› *${prefix}leveling [on/off]*
+
+âž› *${prefix}level*
+
+âž› *${prefix}add*
+
+âž› *${prefix}promover*
+
+âž› *${prefix}setfoto [na legenda]*
+
+âž› *${prefix}setname [texto]*
+
+âž› *${prefix}rebaixar*
+
+âž› *${prefix}admins*
+
+âž› *${prefix}marcar*
+
+âž› *${prefix}marcar2*
+
+âž› *${prefix}marcar3*
+
+âž› *${prefix}bemvindo [1/0]*
+
+âž› *${prefix}grupoinfo*
+
+âž› *${prefix}bomdia*
+
+âž› *${prefix}boatarde*
+
+âž› *${prefix}boanoite*
+
+âž› *${prefix}setdesc*
+
+âž› *${prefix}bug [sua mensagem]*
+
+âž›
+
+âž¢ã€ð—˜ð—¦ð—£ð—˜ð—–ð—œð—™ð—œð—–ð—¢ ð——ð—¢ ð—•ð—¢ð—§ã€‘ð—¹
+
+âž›
+
+âž› *${prefix}bug [sua mensagem]*
+
+âž› *${prefix}clonar [@]*
+
+âž› *${prefix}dono*
+
+âž› *${prefix}ping [ver velocidade do bot]*
+
+âž› *${prefix}termux*
+
+âž› *${prefix}gay [@]*
+
+âž› *${prefix}wame*
+
+âž› *${prefix}map (nome)*
+
+âž› *${prefix}setppbot (marque uma img)*
+
+âž› *${prefix}pinterest (nome)*
+
+âž› *${prefix}desligar (so para o dono)*
+
+âž› *${prefix}timer*
+
+âž›
+
+âž¢ã€ð— ð—”ð—œð—¦ ð—”ð—Ÿð—šð—¨ð—¡ð—¦ã€‘ð—¹
+
+âž›
+
+âž› *${prefix}neko*
+
+âž› *${prefix}ttp [texto]*
+
+âž› *${prefix}testime*
+
+âž› *${prefix}tomp3*
+
+âž› *${prefix}modoanime [on/off]*
+
+âž› *${prefix}modonsfw [on/off]*
+
+âž› *${prefix}happymod [jogo/app]*
+
+âž› *${prefix}rize*
+
+âž› *${prefix}ytsearch*
+
+âž› *${prefix}moddroid [jogo/app]*
+
+âž› *${prefix}xvideos [titulo]**
+
+âž› *${prefix}nomegp*
+
+âž› *${prefix}nabutojokes (memes aleatÃ³rios)*
+
+âž› *${prefix}animecry*
+
+âž› *${prefix}gay1*
+
+âž› *${prefix}next*
+
+âž› *${prefix}alerta*
+
+âž› *${prefix}belle [img aleatÃ³rias]*
+
+âž› *${prefix}pronomeneu [texto]*
+
+âž› *${prefix}hobby*
+
+âž¢ã€ ð—–ð—¢ð— ð—”ð—¡ð——ð—¢ð—¦ ð——ð—˜ ð— ð—¨ð—¦ð—œð—–ð—” ã€‘
+
+âž› *${prefix} em teste
+
+âž› *${prefix}jogaroxo*
+
+âž› *${prefix} em teste
+
+âž› *${prefix} em teste
+
+âž› *${prefix}narutinho*
+
+âž› *${prefix}}tobi*
+
+âž› *${prefix}rapL*
+
+âž› *${prefix}paypal*
+
+âž› *${prefix}sad*
+
+âž¢ã€ ð—¢ð—¨ð—§ð—¥ð—¢ð—¦ /2 ã€‘
+
+*âž› *${prefix}antilink [1/0]*
+
+*âž› *${prefix}brainly [pergunta]*
+
+âž› *${prefix}antiracismo [on/off]*
+
+âž› *${prefix}setnomebot*
+
+âž› *${prefix}meme*
+
+âž¢ã€ ð—œð—¡ð—§ð—˜ð—¥ð—”ð—§ð—œð—©ð—¢ð—¦ ã€‘
+
+NOTA Â»
+
 Mandar a msg sem o prefixo
 
+âž› *${prefix} *beat1*
 
-7Ë3 *${prefix} *beat1*
-7Ë3 *${prefix} *beat2*
-7Ë3 *${prefix} *hentaisom* (erro)
+âž› *${prefix} *beat2*
 
-7Ì0¡¾ ”3¹3”3º4”3º3”3º4 ¡¿
+âž› *${prefix} *hentaisom* (erro)
 
- *”3º3”3º4”3º2”3¹4: nabuto
- *”3»2”3º5”3º5: wa.me/+5519999897566
+âž¢ã€ ð——ð—¢ð—¡ð—¢ ã€‘
 
+ *ð—¡ð—¢ð— ð—˜: nabuto
 
+ *ð—ªð—£ð—£: wa.me/+5519999897566
 
+ã€ PEPY ã€‘`
 
-¡¾ PEPY ¡¿`
 }
 
 exports.help = help
-
-
-
-
-
-
-
-
-
-
-
-
