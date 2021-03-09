@@ -224,7 +224,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `𝙊𝙡𝙖́ ◤◢ @${num.split('@')[0]} ◤◢◣\n𝘽𝙚𝙢 𝙫𝙞𝙣𝙙𝙤 𝙖𝙤 𝙜𝙧𝙪𝙥𝙤:n/━━━━❰･ *${mdata.subject}* ･❱━━━━\n\n𝙋𝙤𝙧 𝙛𝙖𝙫𝙤𝙧 𝙡𝙚𝙞𝙖 𝙖𝙨 𝙧𝙚𝙜𝙧𝙖𝙨\n E 𝙨𝙚𝙟𝙖 𝙛𝙚𝙡𝙞𝙯 𝙣𝙤 𝙜𝙧𝙪𝙥𝙤🤗️`
+				teks = `OI @${num.split('@')[0]} \nBem Vindo ao Grupo:\n----> *${mdata.subject}* <----\n\nPor Favor leia as regras\n E Ssja feliz🤗️`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 				client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
@@ -235,7 +235,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `𝙁 no chat @${num.split('@')[0]} 😣✋`
+				teks = `F no chat @${num.split('@')[0]} 😣✋`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
