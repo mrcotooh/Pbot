@@ -476,7 +476,7 @@ Mandar a msg sem o prefixo
 
 ➢【 𝗗𝗢𝗡𝗢 】
 
- *𝗡𝗢𝗠𝗘: nabuto
+ *𝗡𝗢𝗠𝗘: Guilherme
 
  *𝗪𝗣𝗣: wa.me/+5519999897566
 
